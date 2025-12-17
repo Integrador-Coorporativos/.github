@@ -5,7 +5,7 @@
 <h1 align="center">SADT</h1>
 
 <p align="center">
-O sistema proposto busca fornecer uma plataforma simples e intuitiva que permita visualizar dados agregados 
+Nosso sistema busca fornecer uma plataforma simples e intuitiva que permita visualizar dados agregados 
 de turmas e indicadores individuais de alunos, promovendo uma gestão mais eficiente e colaborativa do desempenho 
 escolar.
 </p>
