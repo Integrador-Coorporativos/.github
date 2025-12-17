@@ -33,18 +33,29 @@ Acesse diretamente nossos principais repositórios:
 ## 🚀 Principais Tecnologias
 Nosso stack moderno inclui:
 
-[Spring Boot](https://spring.io/projects/spring-boot) • [React](https://reactjs.org/) • [PostgreSQL](https://www.postgresql.org/) • [Redis](https://redis.io/) • [Keycloak](https://www.keycloak.org/) • [Docker](https://www.docker.com/) • [Kubernetes](https://kubernetes.io/)
 
----
+<div align="center">
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ"/>
+  <img src="https://img.shields.io/badge/Keycloak-2F80ED?style=for-the-badge&logo=keycloak&logoColor=white" alt="Keycloak"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
+</div>
+
+
 
 ## ✅ Status dos Workflows
 Aqui estão alguns badges de status dos nossos principais repositórios:
+
+<div align="center">
 
 | Serviço              | Build                                                                                                                     | Coverage | Issues |
 |----------------------|---------------------------------------------------------------------------------------------------------------------------| -------- | ------ |
 | academic-service     | ![Build](https://img.shields.io/github/actions/workflow/status/Integrador-Coorporativos/academic_service/ci.yml)          | ![Coverage](https://img.shields.io/codecov/c/github/Integrador-Coorporativos/academic_service) | ![Issues](https://img.shields.io/github/issues/Integrador-Coorporativos/academic_service) |
 | report-service       | ![Build](https://img.shields.io/github/actions/workflow/status/Integrador-Coorporativos/import_and_report_service/ci.yml) | ![Coverage](https://img.shields.io/codecov/c/github/Integrador-Coorporativos/import_and_report_service) | ![Issues](https://img.shields.io/github/issues/Integrador-Coorporativos/import_and_report_service) |
-
+</div>
 
 > ⚡ Esses badges são dinâmicos e atualizados automaticamente.
 
@@ -52,34 +63,14 @@ Aqui estão alguns badges de status dos nossos principais repositórios:
 
 <h2>📫 Desenvolvedores</h2>
 
-<div style="display: flex; gap: 40px; flex-wrap: wrap; justify-content: center;">
-
-  <div style="text-align: center;">
-    <a href="https://github.com/eduardoferreiralima" target="_blank">
-      <img src="https://avatars.githubusercontent.com/u/133402031?v=4?size=100" alt="Usuario1" style="border-radius: 50%; width: 100px; height: 100px;">
-      <p><strong>Eduardo Lima</strong></p>
-      <p>Desenvolvedor Backend</p>
-    </a>
-  </div>
-
-  <div style="text-align: center;">
-    <a href="https://github.com/CaarlosRiian" target="_blank">
-      <img src="https://avatars.githubusercontent.com/u/101999658?v=4?size=100" alt="Usuario2" style="border-radius: 50%; width: 100px; height: 100px;">
-      <p><strong>Rian Carlos</strong></p>
-      <p>Desenvolvedor Frontend</p>
-    </a>
-  </div>
-
-  <div style="text-align: center;">
-    <a href="https://github.com/MarcosFelintoLN" target="_blank">
-      <img src="https://avatars.githubusercontent.com/u/115835114?v=4?size=100" alt="Usuario3" style="border-radius: 50%; width: 100px; height: 100px;">
-      <p><strong>Marcos Felinto</strong></p>
-      <p>Desenvolvedor Full-Stack</p>
-    </a>
-  </div>
+<div align="center">
+  
+| Eduardo Lima | Rian Carlos | Marcos Felinto |
+|--------------|------------|----------------|
+| <a href="https://github.com/eduardoferreiralima" target="_blank"><img src="https://avatars.githubusercontent.com/u/133402031?v=4&s=100" width="100" height="100" style="border-radius:50%"></a> | <a href="https://github.com/CaarlosRiian" target="_blank"><img src="https://avatars.githubusercontent.com/u/101999658?v=4&s=100" width="100" height="100" style="border-radius:50%"></a> | <a href="https://github.com/MarcosFelintoLN" target="_blank"><img src="https://avatars.githubusercontent.com/u/115835114?v=4&s=100" width="100" height="100" style="border-radius:50%"></a> |
+| **Desenvolvedor Backend** | **Desenvolvedor Frontend** | **Desenvolvedor Full-Stack** |
 
 </div>
-
 
 
 > 🌐 Esta página é a **entrada oficial** da organização no GitHub. Use os links acima para navegar por nossos projetos, documentação e recursos para desenvolvedores.
