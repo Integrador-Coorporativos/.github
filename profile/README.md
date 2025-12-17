@@ -51,10 +51,11 @@ Aqui estão alguns badges de status dos nossos principais repositórios:
 
 <div align="center">
 
-| Serviço              | Build                                                                                                                     | Coverage | Issues |
-|----------------------|---------------------------------------------------------------------------------------------------------------------------| -------- | ------ |
-| academic-service     | ![Build](https://img.shields.io/github/actions/workflow/status/Integrador-Coorporativos/academic_service/ci.yml)          | ![Coverage](https://img.shields.io/codecov/c/github/Integrador-Coorporativos/academic_service) | ![Issues](https://img.shields.io/github/issues/Integrador-Coorporativos/academic_service) |
-| report-service       | ![Build](https://img.shields.io/github/actions/workflow/status/Integrador-Coorporativos/import_and_report_service/ci.yml) | ![Coverage](https://img.shields.io/codecov/c/github/Integrador-Coorporativos/import_and_report_service) | ![Issues](https://img.shields.io/github/issues/Integrador-Coorporativos/import_and_report_service) |
+| Serviço              | Build | Coverage | Issues |
+|----------------------|-------|---------|-------|
+| academic-service     | ![Testes e Relatórios](https://img.shields.io/github/actions/workflow/status/Integrador-Coorporativos/academic_service/ci.yaml?branch=main) | ![Coverage](https://img.shields.io/codecov/c/github/Integrador-Coorporativos/academic_service?branch=main) | ![Issues](https://img.shields.io/github/issues/Integrador-Coorporativos/academic_service) |
+| report-service       | ![Testes e Relatórios](https://img.shields.io/github/actions/workflow/status/Integrador-Coorporativos/import_and_report_service/testes.yml?branch=main) | ![Coverage](https://img.shields.io/codecov/c/github/Integrador-Coorporativos/import_and_report_service?branch=main) | ![Issues](https://img.shields.io/github/issues/Integrador-Coorporativos/import_and_report_service) |
+
 </div>
 
 > ⚡ Esses badges são dinâmicos e atualizados automaticamente.
