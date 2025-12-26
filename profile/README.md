@@ -54,7 +54,7 @@ Aqui estão alguns badges de status dos nossos principais repositórios:
 | Serviço              | Build | Coverage | Issues |
 |----------------------|-------|---------|-------|
 | academic-service     | ![Testes e Relatórios](https://img.shields.io/github/actions/workflow/status/Integrador-Coorporativos/academic_service/ci.yaml?branch=main) | ![Coverage](https://img.shields.io/codecov/c/github/Integrador-Coorporativos/academic_service?branch=main) | ![Issues](https://img.shields.io/github/issues/Integrador-Coorporativos/academic_service) |
-| report-service       | ![Testes e Relatórios](https://img.shields.io/github/actions/workflow/status/Integrador-Coorporativos/import_and_report_service/testes.yml?branch=main) | ![Coverage](https://img.shields.io/codecov/c/github/Integrador-Coorporativos/import_and_report_service?branch=main) | ![Issues](https://img.shields.io/github/issues/Integrador-Coorporativos/import_and_report_service) |
+| report-service       | ![Testes e Relatórios](https://img.shields.io/github/actions/workflow/status/Integrador-Coorporativos/import_and_report_service/ci.yml?branch=main) | ![Coverage](https://img.shields.io/codecov/c/github/Integrador-Coorporativos/import_and_report_service?branch=main) | ![Issues](https://img.shields.io/github/issues/Integrador-Coorporativos/import_and_report_service) |
 
 </div>
 
